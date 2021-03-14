@@ -19,6 +19,8 @@ Aller dans **\node_modules\openzeppelin-solidity\contracts\token\ERC20** copier 
 
 ## Create a migration to deploy your contract(s)
 
+Créer **2_deploy_contracts.js** dans **\migration\\** et ajouter le code correspondant (voir projet).
+
 Dans le terminal de votre projet entrer:  
 `truffle develop`  
 `compile`  
